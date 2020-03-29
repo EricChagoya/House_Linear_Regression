@@ -1,0 +1,114 @@
+# Address	TypeOfHouse	Price$	Bedrooms	Bathrooms	SqftHome	AcresLot	CarSpace
+27556 Valley Rim Cir San Juan Capistrano CA 92675	House	$1,589,900	4 bed	3 ba	3,002 sqft	0.35 acres lot	3 car
+32071 Paseo Carolina Unit 37 San Juan Capistrano CA 92675	Condo/Townhome	$288,000	2 bed	1 ba	758 sqft	No lot	No car
+32220 Via Angelica San Juan Capistrano CA 92675	House	$2,659,000	4 bed	4+ ba	4,037 sqft	0.36 acres lot	3 car
+26000 Avenida Aeropuerto Spc 59 San Juan Capistrano CA 92675	Mobile Home	$225,000	2 bed	2 ba	1,060 sqft	No lot	No car
+29801 Monarch Dr San Juan Capistrano CA 92675	House	$1,298,000	5 bed	3+ ba	4,071 sqft	0.6 acres lot	4 car
+26000 Avenida Aeropuerto Spc 113 San Juan Capistrano CA 92675	Mobile Home	$244,000	2 bed	2 ba	1,440 sqft	No lot	No car
+27121 Via Chiquero Apt A San Juan Capistrano CA 92675	House	$649,900	3 bed	2 ba	1,680 sqft	1,722 sqft lot	2 car
+32005 Avenida Evita San Juan Capistrano CA 92675	House	$1,020,000	4 bed	3+ ba	2,450 sqft	0.29 acres lot	3 car
+26000 Avenida Aeropuerto Spc 12 San Juan Capistrano CA 92675	Mobile Home	$205,000	2 bed	2 ba	1,450 sqft	No lot	yes car
+33491 Via De Agua San Juan Capistrano CA 92675	House	$1,330,000	4 bed	3 ba	3,097 sqft	0.25 acres lot	3 car
+33470 Paseo El Lazo San Juan Capistrano CA 92675	Condo/Townhome	$699,990	3 bed	2+ ba	1,836 sqft	510.0 acres lot	2 car
+32866 Via Del Amo San Juan Capistrano CA 92675	House	$785,000	3 bed	2 ba	1,448 sqft	7,200 sqft lot	2 car
+27541 Paseo Tamara San Juan Capistrano CA 92675	Condo/Townhome	$639,900	3 bed	2 ba	1,692 sqft	No lot	2 car
+32172 Via Los Coyotes San Juan Capistrano CA 92675	House	$1,549,000	5 bed	4+ ba	4,000 sqft	0.33 acres lot	3 car
+32221 Alipaz St Apt 209 San Juan Capistrano CA 92675	Condo/Townhome	$345,000	2 bed	2 ba	1,097 sqft	No lot	1 car
+25721 Paseo Colonial San Juan Capistrano CA 92675	House	$645,000	3 bed	1+ ba	1,210 sqft	2,233 sqft lot	2 car
+27703 Ortega Hwy Spc 42 San Juan Capistrano CA 92675	Mobile Home	$289,900	2 bed	2 ba	1,600 sqft	No lot	No car
+28312 Avenida La Mancha San Juan Capistrano CA 92675	House	$2,795,000	6 bed	6+ ba	6,668 sqft	1.7 acres lot	3 car
+27531 Avenida Larga San Juan Capistrano CA 92675	Condo/Townhome	$489,900	2 bed	2 ba	1,350 sqft	1,720 sqft lot	2 car
+27902 Via Madrina San Juan Capistrano CA 92675	House	$3,498,000	5 bed	6 ba	8,380 sqft	1.49 acres lot	5 car
+27232 Via Capote Apt A San Juan Capistrano CA 92675	Condo/Townhome	$585,000	3 bed	2 ba	1,680 sqft	1,722 sqft lot	2 car
+32302 Alipaz St Spc 103 San Juan Capistrano CA 92675	Mobile Home	$369,900	3 bed	2 ba	1,600 sqft	No lot	No car
+32221 Alipaz St Apt 221 San Juan Capistrano CA 92675	Condo/Townhome	$345,000	2 bed	2 ba	1,097 sqft	No lot	1 car
+26621 Via La Jolla San Juan Capistrano CA 92675	House	$1,495,000	4 bed	3+ ba	3,273 sqft	7,212 sqft lot	3 car
+26488 Calle San Luis Unit F76 San Juan Capistrano CA 92675	Condo/Townhome	$325,000	3 bed	1 ba	866 sqft	No lot	1 car
+31191 Casa Grande Dr San Juan Capistrano CA 92675	House	$919,980	4 bed	3 ba	2,651 sqft	9,000 sqft lot	3 car
+32951 Avenida Del Rosal San Juan Capistrano CA 92675	House	$635,000	3 bed	1+ ba	1,210 sqft	2,600 sqft lot	2 car
+29661 Monarch Dr San Juan Capistrano CA 92675	House	$1,175,000	4 bed	3 ba	2,900 sqft	0.62 acres lot	2 car
+26000 Avenida Aeropuerto Spc 180 San Juan Capistrano CA 92675	Mobile Home	$249,000	2 bed	2 ba	1,600 sqft	No lot	No car
+33831 Connemara Dr San Juan Capistrano CA 92675	House	$2,795,000	5 bed	6+ ba	6,129 sqft	0.4 acres lot	3 car
+31322 Via Las Palmas San Juan Capistrano CA 92675	House	$2,179,000	5 bed	4+ ba	4,963 sqft	0.46 acres lot	3 car
+28269 Via Del Mar San Juan Capistrano CA 92675	House	$899,000	4 bed	3 ba	2,418 sqft	100.0 acres lot	2 car
+32552 Alipaz St Unit 32 San Juan Capistrano CA 92675	Condo/Townhome	$375,000	2 bed	2 ba	1,062 sqft	1,600 sqft lot	1 car
+30621 Hunt Club Dr San Juan Capistrano CA 92675	House	$2,788,000	5 bed	5+ ba	6,308 sqft	0.7 acres lot	2 car
+31392 La Matanza St San Juan Capistrano CA 92675	House	$750,000	3 bed	2 ba	1,577 sqft	0.23 acres lot	1 car
+31482 Calle La Purisima Unit 25 San Juan Capistrano CA 92675	Condo/Townhome	$395,000	3 bed	2 ba	1,141 sqft	No lot	1 car
+27962 Calle Belmonte San Juan Capistrano CA 92675	House	$858,000	4 bed	2+ ba	2,280 sqft	5,000 sqft lot	2 car
+32562 Via Los Santos San Juan Capistrano CA 92675	House	$811,000	4 bed	3 ba	2,568 sqft	4,086 sqft lot	2 car
+28971 Calle Susanna San Juan Capistrano CA 92675	House	$1,125,000	4 bed	3 ba	2,637 sqft	8,800 sqft lot	3 car
+30672 Via Conquista San Juan Capistrano CA 92675	House	$3,100,000	5 bed	5 ba	5,851 sqft	0.24 acres lot	3 car
+28861 Via Leona San Juan Capistrano CA 92675	House	$1,325,000	4 bed	3+ ba	4,059 sqft	9,000 sqft lot	3 car
+30181 Hillside Ter San Juan Capistrano CA 92675	House	$1,500,000	5 bed	4+ ba	4,564 sqft	0.45 acres lot	3 car
+31231 Via Solana San Juan Capistrano CA 92675	House	$889,000	4 bed	3 ba	2,881 sqft	8,050 sqft lot	3 car
+25512 Via Inez Rd San Juan Capistrano CA 92675	House	$868,000	3 bed	2 ba	1,699 sqft	7,350 sqft lot	2 car
+31593 Los Rios St Unit 77 San Juan Capistrano CA 92675	Condo/Townhome	$379,990	3 bed	1+ ba	1,030 sqft	No lot	2 car
+25951 Calle Ricardo San Juan Capistrano CA 92675	House	$799,000	3 bed	2 ba	1,761 sqft	0.23 acres lot	3 car
+31102 Via Cordova San Juan Capistrano CA 92675	House	$865,000	4 bed	2+ ba	2,458 sqft	7,535 sqft lot	2 car
+29982 Saddleridge Dr San Juan Capistrano CA 92675	House	$1,650,000	5 bed	5 ba	3,752 sqft	0.32 acres lot	8 car
+33026 Commodore Ct San Juan Capistrano CA 92675	House	$599,995	3 bed	2+ ba	1,433 sqft	1,092 sqft lot	2 car
+27722 Paseo Barona San Juan Capistrano CA 92675	House	$958,000	4 bed	2+ ba	2,866 sqft	7,000 sqft lot	3 car
+31831 Paseo Navarra San Juan Capistrano CA 92675	House	$1,980,000	6 bed	6+ ba	5,523 sqft	0.59 acres lot	4 car
+32371 Alipaz St Trlr 113 San Juan Capistrano CA 92675	Mobile Home	$279,900	3 bed	2 ba	1,300 sqft	No lot	No car
+25611 Purple Sage Ln San Juan Capistrano CA 92675	House	$699,000	3 bed	2 ba	1,438 sqft	8,316 sqft lot	2 car
+30795 Paseo El Arco San Juan Capistrano CA 92675	House	$670,000	4 bed	2 ba	1,435 sqft	4,400 sqft lot	2 car
+33161 Via La Pluma San Juan Capistrano CA 92675	House	$899,900	4 bed	2+ ba	2,275 sqft	6,300 sqft lot	2 car
+33036 Terrapin Ct San Juan Capistrano CA 92675	Condo/Townhome	$595,000	3 bed	2 ba	1,556 sqft	1,520 sqft lot	2 car
+33831 Avenida Calita San Juan Capistrano CA 92675	House	$1,095,000	3 bed	3 ba	2,350 sqft	9,605 sqft lot	2 car
+29542 Westmont Ct San Juan Capistrano CA 92675	House	$489,900	3 bed	1+ ba	1,310 sqft	2,038 sqft lot	1 car
+32302 Alipaz St Spc 289 San Juan Capistrano CA 92675	Mobile Home	$269,900	2 bed	2 ba	1,440 sqft	No lot	No car
+26361 Marina Rd San Juan Capistrano CA 92675	Condo/Townhome	$480,000	2 bed	1+ ba	1,134 sqft	2,047 sqft lot	1 car
+27102 Calle Caballero Apt A San Juan Capistrano CA 92675	Condo/Townhome	$599,000	3 bed	2 ba	1,680 sqft	1,722 sqft lot	2 car
+26751 Dominion Way San Juan Capistrano CA 92675	House	$2,100,000	5 bed	5 ba	5,300 sqft	0.68 acres lot	2 car
+26572 Paseo Callado San Juan Capistrano CA 92675	House	$1,788,000	6 bed	4+ ba	3,912 sqft	0.24 acres lot	3 car
+28412 Camino La Ronda San Juan Capistrano CA 92675	House	$1,649,000	5 bed	4+ ba	4,473 sqft	0.32 acres lot	3 car
+31891 Via Salamanca San Juan Capistrano CA 92675	House	$1,389,000	4 bed	3+ ba	3,832 sqft	0.61 acres lot	4 car
+27072 Via Cocida Apt B San Juan Capistrano CA 92675	Condo/Townhome	$624,800	3 bd	2 ba	1,680 sqft	1,715 sqft lot	2 car
+29516 Riviera Ct San Juan Capistrano CA 92675	Condo/Townhome	$479,900	3 bd	2 ba	1,310 sqft	2,028 sqft lot	1 car
+32371 Alipaz St Trlr 49 San Juan Capistrano CA 92675	Mobile Home	$320,000	3 bd	2 ba	1,512 sqft	No lot	yes car
+33438 Paseo El Lazo San Juan Capistrano CA 92675	Condo/Townhome	$795,945	4 bd	3 ba	2,068 sqft	603.5 acres lot	2 car
+27161 Paseo Del Este San Juan Capistrano CA 92675	House	$849,000	3 bd	2+ ba	2,263 sqft	9,350 sqft lot	2 car
+32371 Alipaz St Trlr 47 San Juan Capistrano CA 92675	Mobile Home	$220,000	2 bd	2 ba	1,200 sqft	No lot	yes car
+32125 Via Viente Unit 48 San Juan Capistrano CA 92675	Condo/Townhome	$529,000	3 bd	2 ba	1,094 sqft	No lot	2 car
+32961 Calle Del Tesoro San Juan Capistrano CA 92675	House	$640,000	3 bd	1+ ba	1,210 sqft	2,236 sqft lot	2 car
+27762 Ortega Hwy San Juan Capistrano CA 92675	House	$895,000	2 bd	2 ba	1,670 sqft	0.3 acres lot	No car
+27665 Paseo Violeta Unit 32 San Juan Capistrano CA 92675	Condo/Townhome	$749,000	3 bd	2 ba	1,728 sqft	No lot	2 car
+26000 Avenida Aeropuerto Spc 123 San Juan Capistrano CA 92675	Mobile Home	$239,900	2 bd	2 ba	1,560 sqft	No lot	No car
+31581 Via Cruzada San Juan Capistrano CA 92675	House	$975,000	3 bd	2 ba	1,992 sqft	0.28 acres lot	2 car
+32371 Alipaz St Trlr 3 San Juan Capistrano CA 92675	Mobile Home	$299,900	3 bd	2 ba	1,350 sqft	No lot	No car
+28600 Martingale Dr San Juan Capistrano CA 92675	House	$3,250,000	5 bd	5+ ba	4,437 sqft	0.23 acres lot	3 car
+25625 Calle La Fuente San Juan Capistrano CA 92675	House	$669,000	3 bd	2 ba	1,387 sqft	3,430 sqft lot	2 car
+33492 Via De Agua San Juan Capistrano CA 92675	House	$949,000	4 bd	2+ ba	3,150 sqft	0.32 acres lot	3 car
+29232 Country Hills Rd San Juan Capistrano CA 92675	House	$1,450,000	4 bd	2+ ba	2,880 sqft	0.43 acres lot	2 car
+26002 Via Arboleda San Juan Capistrano CA 92675	House	$5,500,000	6 bd	6 ba	6,609 sqft	1.03 acres lot	4 car
+31315 Don Juan Ave San Juan Capistrano CA 92675	House	$999,000	3 bd	2+ ba	2,805 sqft	6,600 sqft lot	3 car
+27943 Camino Del Rio San Juan Capistrano CA 92675	House	$730,000	4 bd	2+ ba	1,778 sqft	3,484 sqft lot	2 car
+26481 Paseo Tranquila San Juan Capistrano CA 92675	House	$1,571,950	4 bd	4+ ba	2,616 sqft	0.27 acres lot	2 car
+26541 Paseo Tranquila San Juan Capistrano CA 92675	House	$1,680,000	5 bd	5+ ba	4,396 sqft	0.26 acres lot	3 car
+32061 Cook Ln San Juan Capistrano CA 92675	House	$3,300,000	6 bd	6+ ba	6,680 sqft	1.0 acres lot	7 car
+32280 Via Angelica San Juan Capistrano CA 92675	House	$2,695,000	4 bd	4+ ba	4,018 sqft	0.36 acres lot	3 car
+33111 Southwind Ct San Juan Capistrano CA 92675	House	$599,000	3 bd	2+ ba	1,433 sqft	1,092 sqft lot	2 car
+28301 Camino La Ronda San Juan Capistrano CA 92675	House	$1,599,900	5 bd	4 ba	3,547 sqft	0.34 acres lot	3 car
+32742 Alipaz St Spc 99 San Juan Capistrano CA 92675	Mobile Home	$285,000	3 bd	2 ba	1,440 sqft	No lot	No car
+25546 Spinnaker Dr San Juan Capistrano CA 92675	House	$599,900	2 bd	2 ba	1,225 sqft	3,115 sqft lot	2 car
+26491 Park Cir San Juan Capistrano CA 92675	House	$619,900	3 bd	2+ ba	1,615 sqft	4,400 sqft lot	2 car
+32221 Alipaz St Apt 111 San Juan Capistrano CA 92675	Condo/Townhome	$270,000	1 bd	1 ba	764 sqft	No lot	1 car
+32302 Alipaz St Spc 36 San Juan Capistrano CA 92675	Mobile Home	$229,900	2 bd	2 ba	1,400 sqft	No lot	yes car
+27273 Via Capri San Juan Capistrano CA 92675	Condo/Townhome	$699,000	2 bd	2+ ba	1,390 sqft	No lot	2 car
+27172 Paseo Burladero Apt B San Juan Capistrano CA 92675	House	$610,000	2 bd	3 ba	1,680 sqft	1,724 sqft lot	2 car
+27208 Paseo Lomita San Juan Capistrano CA 92675	Condo/Townhome	$659,900	3 bd	2 ba	1,463 sqft	3,000 sqft lot	2 car
+30838 Calle Chueca San Juan Capistrano CA 92675	House	$469,900	2 bd	1+ ba	1,187 sqft	1,652 sqft lot	2 car
+26512 Via La Jolla San Juan Capistrano CA 92675	House	$1,499,990	4 bd	3+ ba	3,527 sqft	6,486 sqft lot	2 car
+25686 Compass Way San Juan Capistrano CA 92675	House	$689,000	3 bd	2+ ba	1,649 sqft	2,324 sqft lot	2 car
+32412 Lookout Ct San Juan Capistrano CA 92675	House	$695,000	3 bd	2 ba	1,417 sqft	3,403 sqft lot	2 car
+30952 Via Bravo San Juan Capistrano CA 92675	House	$1,625,000	4 bd	4+ ba	3,950 sqft	0.27 acres lot	3 car
+33872 Calle Borrego San Juan Capistrano CA 92675	House	$800,000	4 bd	3+ ba	2,781 sqft	0.27 acres lot	2 car
+26513 Paseo San Gabriel San Juan Capistrano CA 92675	Condo/Townhome	$312,000	2 bd	1 ba	897 sqft	100.0 acres lot	1 car
+26631 Paseo Durango San Juan Capistrano CA 92675	House	$548,900	3 bd	2 ba	1,050 sqft	3,282 sqft lot	yes car
+31755 Aguacate Rd San Juan Capistrano CA 92675	House	$2,395,000	6 bd	4+ ba	4,700 sqft	0.59 acres lot	2 car
+30552 Hilltop Way San Juan Capistrano CA 92675	House	$5,488,000	9 bd	9+ ba	14,147 sqft	2.52 acres lot	7 car
+26541 Briarwood Ln San Juan Capistrano CA 92675	House	$639,000	3 bd	2+ ba	1,615 sqft	5,145 sqft lot	2 car
+28931 Via Hacienda San Juan Capistrano CA 92675	House	$1,169,000	4 bd	3 ba	2,637 sqft	9,350 sqft lot	3 car
+31942 Via De Linda San Juan Capistrano CA 92675	House	$899,900	4 bd	2+ ba	1,875 sqft	0.23 acres lot	3 car
+30312 Marbella Vis San Juan Capistrano CA 92675	House	$2,780,000	4 bd	4+ ba	5,377 sqft	0.24 acres lot	5 car

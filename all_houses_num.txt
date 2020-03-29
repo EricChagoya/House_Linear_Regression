@@ -1,0 +1,114 @@
+Address	TypeOfHouse	Price$	Bedrooms	Bathrooms	SqftHome	AcresLot	CarSpace
+27556 Valley Rim Cir San Juan Capistrano CA 92675	House	1589900	4	3	3002	0.35	3
+32071 Paseo Carolina Unit 37 San Juan Capistrano CA 92675	Condo/Townhome	288000	2	1	758	-	-
+32220 Via Angelica San Juan Capistrano CA 92675	House	2659000	4	4.5	4037	0.36	3
+26000 Avenida Aeropuerto Spc 59 San Juan Capistrano CA 92675	Mobile Home	225000	2	2	1060	-	-
+29801 Monarch Dr San Juan Capistrano CA 92675	House	1298000	5	3.5	4071	0.6	4
+26000 Avenida Aeropuerto Spc 113 San Juan Capistrano CA 92675	Mobile Home	244000	2	2	1440	-	-
+27121 Via Chiquero Apt A San Juan Capistrano CA 92675	House	649900	3	2	1680	0.03953168044077135	2
+32005 Avenida Evita San Juan Capistrano CA 92675	House	1020000	4	3.5	2450	0.29	3
+26000 Avenida Aeropuerto Spc 12 San Juan Capistrano CA 92675	Mobile Home	205000	2	2	1450	-	1
+33491 Via De Agua San Juan Capistrano CA 92675	House	1330000	4	3	3097	0.25	3
+33470 Paseo El Lazo San Juan Capistrano CA 92675	Condo/Townhome	699990	3	2.5	1836	5.100	2
+32866 Via Del Amo San Juan Capistrano CA 92675	House	785000	3	2	1448	0.1652892561983471	2
+27541 Paseo Tamara San Juan Capistrano CA 92675	Condo/Townhome	639900	3	2	1692	-	2
+32172 Via Los Coyotes San Juan Capistrano CA 92675	House	1549000	5	4.5	4000	0.33	3
+32221 Alipaz St Apt 209 San Juan Capistrano CA 92675	Condo/Townhome	345000	2	2	1097	-	1
+25721 Paseo Colonial San Juan Capistrano CA 92675	House	645000	3	1.5	1210	0.05126262626262626	2
+27703 Ortega Hwy Spc 42 San Juan Capistrano CA 92675	Mobile Home	289900	2	2	1600	-	-
+28312 Avenida La Mancha San Juan Capistrano CA 92675	House	2795000	6	6.5	6668	1.7	3
+27531 Avenida Larga San Juan Capistrano CA 92675	Condo/Townhome	489900	2	2	1350	0.03948576675849403	2
+27902 Via Madrina San Juan Capistrano CA 92675	House	3498000	5	6	8380	1.49	5
+27232 Via Capote Apt A San Juan Capistrano CA 92675	Condo/Townhome	585000	3	2	1680	0.03953168044077135	2
+32302 Alipaz St Spc 103 San Juan Capistrano CA 92675	Mobile Home	369900	3	2	1600	-	-
+32221 Alipaz St Apt 221 San Juan Capistrano CA 92675	Condo/Townhome	345000	2	2	1097	-	1
+26621 Via La Jolla San Juan Capistrano CA 92675	House	1495000	4	3.5	3273	0.16556473829201102	3
+26488 Calle San Luis Unit F76 San Juan Capistrano CA 92675	Condo/Townhome	325000	3	1	866	-	1
+31191 Casa Grande Dr San Juan Capistrano CA 92675	House	919980	4	3	2651	0.2066115702479339	3
+32951 Avenida Del Rosal San Juan Capistrano CA 92675	House	635000	3	1.5	1210	0.05968778696051423	2
+29661 Monarch Dr San Juan Capistrano CA 92675	House	1175000	4	3	2900	0.62	2
+26000 Avenida Aeropuerto Spc 180 San Juan Capistrano CA 92675	Mobile Home	249000	2	2	1600	-	-
+33831 Connemara Dr San Juan Capistrano CA 92675	House	2795000	5	6.5	6129	0.4	3
+31322 Via Las Palmas San Juan Capistrano CA 92675	House	2179000	5	4.5	4963	0.46	3
+28269 Via Del Mar San Juan Capistrano CA 92675	House	899000	4	3	2418	1.000	2
+32552 Alipaz St Unit 32 San Juan Capistrano CA 92675	Condo/Townhome	375000	2	2	1062	0.03673094582185491	1
+30621 Hunt Club Dr San Juan Capistrano CA 92675	House	2788000	5	5.5	6308	0.7	2
+31392 La Matanza St San Juan Capistrano CA 92675	House	750000	3	2	1577	0.23	1
+31482 Calle La Purisima Unit 25 San Juan Capistrano CA 92675	Condo/Townhome	395000	3	2	1141	-	1
+27962 Calle Belmonte San Juan Capistrano CA 92675	House	858000	4	2.5	2280	0.1147842056932966	2
+32562 Via Los Santos San Juan Capistrano CA 92675	House	811000	4	3	2568	0.09380165289256198	2
+28971 Calle Susanna San Juan Capistrano CA 92675	House	1125000	4	3	2637	0.20202020202020202	3
+30672 Via Conquista San Juan Capistrano CA 92675	House	3100000	5	5	5851	0.24	3
+28861 Via Leona San Juan Capistrano CA 92675	House	1325000	4	3.5	4059	0.2066115702479339	3
+30181 Hillside Ter San Juan Capistrano CA 92675	House	1500000	5	4.5	4564	0.45	3
+31231 Via Solana San Juan Capistrano CA 92675	House	889000	4	3	2881	0.18480257116620752	3
+25512 Via Inez Rd San Juan Capistrano CA 92675	House	868000	3	2	1699	0.16873278236914602	2
+31593 Los Rios St Unit 77 San Juan Capistrano CA 92675	Condo/Townhome	379990	3	1.5	1030	-	2
+25951 Calle Ricardo San Juan Capistrano CA 92675	House	799000	3	2	1761	0.23	3
+31102 Via Cordova San Juan Capistrano CA 92675	House	865000	4	2.5	2458	0.17297979797979798	2
+29982 Saddleridge Dr San Juan Capistrano CA 92675	House	1650000	5	5	3752	0.32	8
+33026 Commodore Ct San Juan Capistrano CA 92675	House	599995	3	2.5	1433	0.025068870523415977	2
+27722 Paseo Barona San Juan Capistrano CA 92675	House	958000	4	2.5	2866	0.16069788797061524	3
+31831 Paseo Navarra San Juan Capistrano CA 92675	House	1980000	6	6.5	5523	0.59	4
+32371 Alipaz St Trlr 113 San Juan Capistrano CA 92675	Mobile Home	279900	3	2	1300	-	-
+25611 Purple Sage Ln San Juan Capistrano CA 92675	House	699000	3	2	1438	0.19090909090909092	2
+30795 Paseo El Arco San Juan Capistrano CA 92675	House	670000	4	2	1435	0.10101010101010101	2
+33161 Via La Pluma San Juan Capistrano CA 92675	House	899900	4	2.5	2275	0.1446280991735537	2
+33036 Terrapin Ct San Juan Capistrano CA 92675	Condo/Townhome	595000	3	2	1556	0.03489439853076217	2
+33831 Avenida Calita San Juan Capistrano CA 92675	House	1095000	3	3	2350	0.22050045913682279	2
+29542 Westmont Ct San Juan Capistrano CA 92675	House	489900	3	1.5	1310	0.046786042240587696	1
+32302 Alipaz St Spc 289 San Juan Capistrano CA 92675	Mobile Home	269900	2	2	1440	-	-
+26361 Marina Rd San Juan Capistrano CA 92675	Condo/Townhome	480000	2	1.5	1134	0.04699265381083563	1
+27102 Calle Caballero Apt A San Juan Capistrano CA 92675	Condo/Townhome	599000	3	2	1680	0.03953168044077135	2
+26751 Dominion Way San Juan Capistrano CA 92675	House	2100000	5	5	5300	0.68	2
+26572 Paseo Callado San Juan Capistrano CA 92675	House	1788000	6	4.5	3912	0.24	3
+28412 Camino La Ronda San Juan Capistrano CA 92675	House	1649000	5	4.5	4473	0.32	3
+31891 Via Salamanca San Juan Capistrano CA 92675	House	1389000	4	3.5	3832	0.61	4
+29516 Riviera Ct San Juan Capistrano CA 92675	Condo/Townhome	479900	3	2	1310	0.046556473829201105	1
+32371 Alipaz St Trlr 49 San Juan Capistrano CA 92675	Mobile Home	320000	3	2	1512	-	1
+27161 Paseo Del Este San Juan Capistrano CA 92675	House	849000	3	2.5	2263	0.21464646464646464	2
+32961 Calle Del Tesoro San Juan Capistrano CA 92675	House	640000	3	1.5	1210	0.05133149678604224	2
+32371 Alipaz St Trlr 3 San Juan Capistrano CA 92675	Mobile Home	299900	3	2	1350	-	-
+28600 Martingale Dr San Juan Capistrano CA 92675	House	3250000	5	5.5	4437	0.23	3
+26002 Via Arboleda San Juan Capistrano CA 92675	House	5500000	6	6	6609	1.03	4
+27072 Via Cocida Apt B San Juan Capistrano CA 92675	Condo/Townhome	624800	3	2	1680	0.039370982552800735	2
+33438 Paseo El Lazo San Juan Capistrano CA 92675	Condo/Townhome	795945	4	3	2068	6.035	2
+32371 Alipaz St Trlr 47 San Juan Capistrano CA 92675	Mobile Home	220000	2	2	1200	-	1
+32125 Via Viente Unit 48 San Juan Capistrano CA 92675	Condo/Townhome	529000	3	2	1094	-	2
+27762 Ortega Hwy San Juan Capistrano CA 92675	House	895000	2	2	1670	0.3	-
+27665 Paseo Violeta Unit 32 San Juan Capistrano CA 92675	Condo/Townhome	749000	3	2	1728	-	2
+26000 Avenida Aeropuerto Spc 123 San Juan Capistrano CA 92675	Mobile Home	239900	2	2	1560	-	-
+31581 Via Cruzada San Juan Capistrano CA 92675	House	975000	3	2	1992	0.28	2
+25625 Calle La Fuente San Juan Capistrano CA 92675	House	669000	3	2	1387	0.07874196510560147	2
+33492 Via De Agua San Juan Capistrano CA 92675	House	949000	4	2.5	3150	0.32	3
+29232 Country Hills Rd San Juan Capistrano CA 92675	House	1450000	4	2.5	2880	0.43	2
+31315 Don Juan Ave San Juan Capistrano CA 92675	House	999000	3	2.5	2805	0.15151515151515152	3
+27943 Camino Del Rio San Juan Capistrano CA 92675	House	730000	4	2.5	1778	0.07998163452708908	2
+26481 Paseo Tranquila San Juan Capistrano CA 92675	House	1571950	4	4.5	2616	0.27	2
+26541 Paseo Tranquila San Juan Capistrano CA 92675	House	1680000	5	5.5	4396	0.26	3
+32061 Cook Ln San Juan Capistrano CA 92675	House	3300000	6	6.5	6680	1.0	7
+32280 Via Angelica San Juan Capistrano CA 92675	House	2695000	4	4.5	4018	0.36	3
+33111 Southwind Ct San Juan Capistrano CA 92675	House	599000	3	2.5	1433	0.025068870523415977	2
+28301 Camino La Ronda San Juan Capistrano CA 92675	House	1599900	5	4	3547	0.34	3
+32742 Alipaz St Spc 99 San Juan Capistrano CA 92675	Mobile Home	285000	3	2	1440	-	-
+25546 Spinnaker Dr San Juan Capistrano CA 92675	House	599900	2	2	1225	0.07151056014692378	2
+26491 Park Cir San Juan Capistrano CA 92675	House	619900	3	2.5	1615	0.10101010101010101	2
+32221 Alipaz St Apt 111 San Juan Capistrano CA 92675	Condo/Townhome	270000	1	1	764	-	1
+32302 Alipaz St Spc 36 San Juan Capistrano CA 92675	Mobile Home	229900	2	2	1400	-	1
+27273 Via Capri San Juan Capistrano CA 92675	Condo/Townhome	699000	2	2.5	1390	-	2
+27172 Paseo Burladero Apt B San Juan Capistrano CA 92675	House	610000	2	3	1680	0.03957759412304867	2
+27208 Paseo Lomita San Juan Capistrano CA 92675	Condo/Townhome	659900	3	2	1463	0.06887052341597796	2
+30838 Calle Chueca San Juan Capistrano CA 92675	House	469900	2	1.5	1187	0.0379247015610652	2
+26512 Via La Jolla San Juan Capistrano CA 92675	House	1499990	4	3.5	3527	0.14889807162534435	2
+25686 Compass Way San Juan Capistrano CA 92675	House	689000	3	2.5	1649	0.05335169880624426	2
+32412 Lookout Ct San Juan Capistrano CA 92675	House	695000	3	2	1417	0.07812213039485767	2
+30952 Via Bravo San Juan Capistrano CA 92675	House	1625000	4	4.5	3950	0.27	3
+33872 Calle Borrego San Juan Capistrano CA 92675	House	800000	4	3.5	2781	0.27	2
+26513 Paseo San Gabriel San Juan Capistrano CA 92675	Condo/Townhome	312000	2	1	897	1.000	1
+26631 Paseo Durango San Juan Capistrano CA 92675	House	548900	3	2	1050	0.07534435261707989	1
+31755 Aguacate Rd San Juan Capistrano CA 92675	House	2395000	6	4.5	4700	0.59	2
+30552 Hilltop Way San Juan Capistrano CA 92675	House	5488000	9	9.5	14147	2.52	7
+26541 Briarwood Ln San Juan Capistrano CA 92675	House	639000	3	2.5	1615	0.1181129476584022	2
+28931 Via Hacienda San Juan Capistrano CA 92675	House	1169000	4	3	2637	0.21464646464646464	3
+31942 Via De Linda San Juan Capistrano CA 92675	House	899900	4	2.5	1875	0.23	3
+30312 Marbella Vis San Juan Capistrano CA 92675	House	2780000	4	4.5	5377	0.24	5
