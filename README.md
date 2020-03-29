@@ -9,3 +9,4 @@ all_houses.txt has all the information without any changes to the data.
 all_houses_num.txt has the categorical information changed into numeric.
 
 House_Analysis.R is where I created the model
+I was trying to predict the price of a house and my model did a really good job
